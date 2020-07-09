@@ -12,7 +12,6 @@ You can react me in [Twitter](https://twitter.com/KarimTheGeek) or [LinkedIn](ht
 
 Until we meet again !
 
-I also like to read about DevOps stuff such as Docker, Kubernetes …
 <!--
 **aelamel/aelamel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
