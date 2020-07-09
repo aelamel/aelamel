@@ -8,7 +8,7 @@ I work with PHP(Symfony)/Angular/React on a daily basis. Docker&Kubernetes in th
 
 I like discovering and learning new things like the Spring Stack, SSG and more ...
 
-You can react me in [https://twitter.com/KarimTheGeek](Twitter) or [https://www.linkedin.com/in/abdelkarim-el-amel-937aa5a8](LinkedIn)
+You can react me in [Twitter](https://twitter.com/KarimTheGeek) or [LinkedIn](https://www.linkedin.com/in/abdelkarim-el-amel-937aa5a8)
 
 Until we meet again !
 
