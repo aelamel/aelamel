@@ -4,7 +4,7 @@ My name is Abdelkarim EL AMEL, i am a Software Engineer from Morocco.
 
 I’m highly interested with everything that works with code :).
 
-I work with PHP(Symfony)/Angular/React on a daily basis, but does stop me from learning new stuff such us Docker, Kubernetes, Microservices architecture ...
+I work with PHP(Symfony)/Angular/React on a daily basis, but that does not stop me from learning new stuff such us Docker, Kubernetes, Microservices architecture ...
 
 You can reach me on [Twitter](https://twitter.com/KarimTheGeek) or [LinkedIn](https://www.linkedin.com/in/abdelkarim-el-amel-937aa5a8)
 
